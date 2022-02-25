@@ -1,0 +1,1112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem occasioned by the late discontents &amp; disturbances in the state with reflections upon the rise and progress of priest-craft / written by N. Tate.</title>
+            <author>Tate, Nahum, 1652-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63078</idno>
+            <idno type="STC">Wing T206</idno>
+            <idno type="STC">ESTC R28193</idno>
+            <idno type="EEBO-CITATION">10445718</idno>
+            <idno type="OCLC">ocm 10445718</idno>
+            <idno type="VID">45063</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45063)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1390:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem occasioned by the late discontents &amp; disturbances in the state with reflections upon the rise and progress of priest-craft / written by N. Tate.</title>
+                  <author>Tate, Nahum, 1652-1715.</author>
+               </titleStmt>
+               <extent>[4], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Earlier version published in 1690 as: A pastoral dialogue.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45063:1"/>
+            <pb facs="tcp:45063:1"/>
+            <p>A POEM, Occaſioned by the Late <hi>Diſcontents</hi> &amp; <hi>Diſturbances</hi> IN THE STATE. WITH REFLECTIONS UPON THE RISE and PROGRESS OF PRIEST-CRAFT.</p>
+            <p>Written by <hi>N. TATE.</hi>
+            </p>
+            <q>
+               <l>—Liberius ſi</l>
+               <l>Dixero quid, ſi forte Jocoſius, Hoc mihi juris</l>
+               <l>Cum Venia dabis.</l> 
+               <bibl>
+                  <hi>Hor.</hi>
+               </bibl>
+            </q>
+            <q>Vincit Amor <hi>Patriae.</hi> 
+               <bibl>
+                  <hi>Virg.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-lane,</hi> MDCXCI.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:45063:2" rendition="simple:additions"/>
+            <pb facs="tcp:45063:2"/>
+            <head>PREFACE.</head>
+            <p>
+               <hi>I</hi> Could heartily have wiſh'd there had been no Occaſion offer'd, or Subject-matter for an <hi>Eſſay</hi> of this kind. After ſo happy and wonderful a Revolution as we have ſeen, when our Hopes were grown deſperate, and our Liberty reduc'd to its very laſt gaſp, to have the only Remedy in Nature ſo effectually apply'd, ſo mira<g ref="char:EOLhyphen"/>culous a Recovery perform'd; after all this, to find <hi>Engliſh-men,</hi> and ſuch as pretend to no other <hi>Intereſt</hi> or <hi>Religion</hi> but That of their Country; to find Them expreſſing Diſſatisfaction, every<g ref="char:EOLhyphen"/>where buſie in ſowing Diſſention, obſtructing, as far as in them lies, the Progreſs of Affairs, and unhinging the preſent Settlement (upon which alone depends the Safety of theſe Nations, and com<g ref="char:EOLhyphen"/>mon Quiet of <hi>Europe);</hi> This is ſo juſt a Cauſe of Indignation, as muſt make every Lover of his Countrey to turn <hi>Satyriſt,</hi> or, at leaſt, excuſe the honeſt Zeal of ſuch as upon this Occaſion expreſs their Reſentments. To be unconcern'd for a Man's Coun<g ref="char:EOLhyphen"/>try, is the worſt want of <hi>natural</hi> Affection: A Crime reputed ſo heinous amongst the more generous Heathens, that it diveſted the indulgent <hi>Brutus</hi> of all Compaſſion on his Sons, whom he ſubmitted to the extremity of Puniſhment, for making Commotions in the new Settlement of the <hi>Roman</hi> Liberty.</p>
+            <q>
+               <l>
+                  <hi>—Gnatoſque Pater nova Bella moventes</hi>
+               </l>
+               <l>
+                  <hi>In Poenam dulci pro</hi> Libertate <hi>vocabit.</hi>
+               </l>
+            </q>
+            <pb facs="tcp:45063:3"/>
+            <p>In tracing the Occaſions of the late Diſturbances and Diſcon<g ref="char:EOLhyphen"/>tents of the State, I was unwillingly brought within the Verge of the <hi>Church.</hi> There is no Man that has a greater Veneration for the Sacred Function and Order, or the Diſcipline and Worſhip by Law eſtabliſh'd; neither does the <hi>Paſſive Principle</hi> it ſelf, that has ſo nearly endanger'd the Shipwreck both of State and Church, derive it's ſource from the pure Fountain of our Reformation: 'Twas a new-ſprouted <hi>Tail</hi> of the <hi>Dragon,</hi> that ſwept many of our <hi>Stars,</hi> tho but few of the Firſt Magnitude; moſt whereof re<g ref="char:EOLhyphen"/>cover'd themſelves as ſoon as they were ſenſible of the Conſequence.
+<note n="*" place="margin">Letter to a Diſ<g ref="char:EOLhyphen"/>ſenting Clergy-man.</note> 
+               <hi>For my own part</hi> (ſays one) <hi>I am ſo little aſham'd of altering my Opinion in this matter, that I think I have nothing to bluſh for, but that I no ſooner diſcover'd my Error, and the ungrateful and odi<g ref="char:EOLhyphen"/>ous uſe that was deſign'd to be made of it.</hi> The Number is but ſmall of ſuch as ſtill adhere to the Prejudice of their Educa<g ref="char:EOLhyphen"/>tion under a Government, whoſe buſineſs it was to debauch our Principles, and diſpoſe us for the Slavery that was to be brought upon us.</p>
+            <p>What I have touch'd concerning Penal Impoſitions on Conſci<g ref="char:EOLhyphen"/>ence, and the <hi>Nicene</hi> Aſſembly, (amongst whom were many Per<g ref="char:EOLhyphen"/>ſons that preſerv'd the Primitive Character), I muſt for the Conſe<g ref="char:EOLhyphen"/>quence refer you to the Teſtimony of Church-Hiſtorians; inſtan<g ref="char:EOLhyphen"/>cing only one Paſſage in St. <hi>Hilary,</hi> who gives us this Account: <hi>Conſcii ſumus quod poſt Nicaenam Synodum nihil aliud quam Fidem ſcribimus, dum in Verbis pugna eſt, dum de novitatibus quaeſtio eſt, dum de Ambiguis Occaſio eſt, dum de Authoribus querela eſt, dum de ſtudiis certamen eſt, dum in Conſenſu difficultas eſt, dum Alter Alteri Anathema eſſe
+<pb facs="tcp:45063:3"/>caepit prope jam nemo Chriſti eſt,</hi> &amp;c. <hi>Tandem eo proceſ<g ref="char:EOLhyphen"/>ſum eſt ut neque penes nos, neque penes quenquam, ante nos Sanctum exinde aliquid perſeveret; annuas atque menſtruas de Deo fides decernimus, decretis poenitemus, poenitentes de<g ref="char:EOLhyphen"/>fendimus, defenſos Anathematizamus, aut in noſtris aliena, aut aliena in noſtris damnamus, &amp; mordentes invicem, jam abſumpti ſumus ab invicem.</hi>
+            </p>
+            <p>I cannot better make my Apology, than in the words of a late Writer upon this Occaſion, who ſays, <hi>It is not their declaring their Opinion (wherein they ſeem to me to have light upon the Truth, if they had likewiſe upon the Meaſure) that could have moved me to ſpeak with this liberty, but their impoſing what was not contain'd in expreſs words of Scripture, under Spiritual and Civil</hi> Penalties, <hi>contrary to the Privilege of Religion, and making a Precedent, follow'd and improv'd by all ſucceeding Ages, for moſt Cruel Perſecutions.</hi>
+            </p>
+            <p>There is no Perſon ſo obſcure or inconſiderable, but might have obſerved our moſt zealous Proteſtants, both <hi>Church-men</hi> and <hi>Diſſenters,</hi> to have been all along <hi>Properties</hi> to the Common Enemy; ſo viſible have been the Triumphs and Inſultings of <hi>Roman</hi> Emiſſaries upon the Animoſities they have ſown amongſt us, and of which they reckon'd ſhortly to reap the Harveſt.</p>
+            <p>The <g ref="char:V">Ʋ</g>nreaſonableneſs (that is to ſay, the <hi>Impoſſibility</hi>) of Force in matters of meer Conſcience and Opinion, has demonſtra<g ref="char:EOLhyphen"/>ted it ſelf through all Ages. Our Diſſenters have had their Faults, and they have ſuffer'd: Neither is it the leaſt Bleſſing amongst thoſe Great and Many that ſeem to be reſerv'd for His
+<pb facs="tcp:45063:4"/>preſent Majeſty's Reign, That we do not yet deſpair of a <hi>Com<g ref="char:EOLhyphen"/>prehenſion.</hi> His Majeſty has, with more than <hi>Conſtantine</hi>'s Piety, ſignaliz'd His Royal Inclination; the ableſt of our Spiri<g ref="char:EOLhyphen"/>tual Guides are zealous Endeavourers for it: and That (amongst other weighty Reaſons) for the <hi>True</hi> Intereſt and Inviolable Security of the <hi>Church Eſtabliſh'd:</hi> Which, as it influences the Publick Happineſs, it is the Duty of ev'n the meaneſt Lay-man to be ſollicitous for it. And this Privilege, at leaſt, I may plead for what I have ſaid;
+<q>
+                  <hi>For common quiet is Mankinds Concern.</hi> 
+                  <bibl>Relig. Lai.</bibl>
+               </q>
+            </p>
+            <p>Now as to your Cenſure of this <hi>Eſſay</hi> as a Poem, I have that Indifference which is neceſſary for an <hi>ill Writer.</hi> If it have the leaſt degree of Art or Beauty, the Judicious will not miſs of it: Otherwiſe, I have ſeldom known a <hi>Reader</hi> harangu'd into a favourable Opinion againſt his Conſcience. The Nature of the <hi>Dialogue</hi> oblig'd me for the moſt part to Expreſſions that were familiar, and <hi>Sermoni propiora.</hi> You will find it but praelimi<g ref="char:EOLhyphen"/>nary to a more agreeable Subject, if any Pitch of Zeal can war<g ref="char:EOLhyphen"/>rant ſo mean a Talent in the Faculty as Mine, for the <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>taking.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:45063:4"/>
+            <head>A POEM, Occaſioned by the Late DISCONTENTS AND DISTURBANCES, &amp;c.</head>
+            <lg>
+               <l>NEar <hi>Iſis</hi> Spring, the Muſes poor Retreat,</l>
+               <l>
+                  <hi>Palaemon</hi> dwelt in his unenvied Seat;</l>
+               <l>Whoſe little, but Hereditary Soil,</l>
+               <l>Anſwer'd his mod'rate Hopes, if not his Toil;</l>
+               <l>For Nature's Wants did Modeſtly provide,</l>
+               <l>Content and Innocence the Reſt ſupply'd.</l>
+               <l>His Years declin'd, his Thoughts their Manly Fire</l>
+               <l>Preſerv'd, advancing as his Days retire.</l>
+               <l>None better knew or practis'd in his Cell,</l>
+               <l>The Chaſt Delights that in Retirement dwell,</l>
+               <l>That Scorn the Golden Manſions of the Proud,</l>
+               <l>And fly the Haunts of the unhallow'd Crowd;</l>
+               <l>Betimes he ſhunn'd the Beaten Roads of Strife,</l>
+               <l>And found the Secret Track to Peaceful Life.</l>
+               <pb n="2" facs="tcp:45063:5"/>
+               <l>Too Bleſs'd, if while his private Cares did ceaſe,</l>
+               <l>No Fears had ſeiz'd him for his Countries Peace;</l>
+               <l>So ſtrong the Guard of Vertues which he choſe,</l>
+               <l>Fate had no other way to his Repoſe.</l>
+               <l>Religion He, and Loyalty, held Dear;</l>
+               <l>Begot in neither, tho in both Sincere,</l>
+               <l>In ev'ry Courſe by Truth and Senſe did ſteer:</l>
+               <l>Did gen'rouſly his Rules for Practice draw</l>
+               <l>From Sacred Writ, and uncorrupted Law.</l>
+               <l>Of Church and Court th'Encroachments did Survey;</l>
+               <l>In Prieſts and States-men found the ſame Foul Play;</l>
+               <l>Both Functions ſaw, alike by Int'reſt Sway'd,</l>
+               <l>Both grown a Cheat, for both were grown a Trade.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Philander,</hi> whom the Muſes Charms had mov'd,</l>
+               <l>By Learn'd <hi>Palaemon</hi>'s Rules his Vein improv'd,</l>
+               <l>And next the Muſes his <hi>Palaemon</hi> lov'd.</l>
+               <l>His awful Steps with rev'rend diſtance trac'd,</l>
+               <l>Silence and Sacred Poverty embrac'd.</l>
+               <l>His ſole Ambition to compoſe ſome Lay,</l>
+               <l>That might to <hi>Britain's Pollio</hi> force its way;</l>
+               <l>From his ſharp-judging Patron gain a Smile,</l>
+               <l>And of an Hour the waiting State beguile.</l>
+               <l>In this alone he wrong'd the Publick-Weal,</l>
+               <l>For which no Swain confeſs'd a warmer Zeal.</l>
+            </lg>
+            <lg>
+               <l>Oppreſs'd with Thought, one Ev'ning he repairs,</l>
+               <l>With his <hi>Palaemon,</hi> to concert his Cares:</l>
+               <pb n="3" facs="tcp:45063:5"/>
+               <l>Juſt then returning from his Ev'ning's Round</l>
+               <l>(His Farm's ſhort Bounds) the good old Swain he found,</l>
+               <l>Who in his Arms brought Home a New-ean'd Lamb,</l>
+               <l>A Firſtling, but forſaken by its Dam.</l>
+               <l>The Youth with that unkindly Omen ſtruck,</l>
+               <l>To vent his penſive Thoughts occaſion took,</l>
+               <l>and thus began —</l>
+            </lg>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>—The ſame Diſorder reigns</l>
+               <l>Amongſt our Flocks that has poſſeſt our Swains,</l>
+               <l>Perverſly both to their own Hopes unkind,</l>
+               <l>Expoſe their tender Comforts to the Wind:</l>
+               <l>But lately 'twas that ev'ry Shepherd Sung,</l>
+               <l>While with the gen'ral Glee the Valleys rung,</l>
+               <l>As Nature had renew'd, and freſh Creation ſprung;</l>
+               <l>Each Muſe to the Reſtorer tun'd her Lyre,</l>
+               <l>Their only and almoſt deſpair'd Deſire.</l>
+               <l>They ſung, How in his <hi>Belgick</hi>-Seat he lay,</l>
+               <l>Silent as Night, but watchful as the Day;</l>
+               <l>His ſure, but ſecret Councils did advance</l>
+               <l>To check the Progreſs of encroaching <hi>France,</hi>
+               </l>
+               <l>While <hi>Belgia</hi> did the Tyrants ſummons wait,</l>
+               <l>And <hi>Britain</hi> from the Continent disjoin'd,</l>
+               <l>No Safety in her Seas embrace could find,</l>
+               <l>Not <hi>Britain</hi> knew to ſhun the common Fate.</l>
+               <l>To Bondage ſold, deſpairing to be freed</l>
+               <l>The ſervile Contract her own Act and Deed.</l>
+               <pb n="4" facs="tcp:45063:6"/>
+               <l>Her Roman Maſters at their Conqueſt ſmile,</l>
+               <l>Secure in Hopes, they cantle out the Iſle.</l>
+               <l>
+                  <hi>Palaemon,</hi> you muſt needs remember well</l>
+               <l>That ruthful Seaſon which you could foretel,</l>
+               <l>To Unbelievers preacht, who mourn'd too late</l>
+               <l>Their <hi>Trojan</hi> Fathers Folly, and their Fate.</l>
+               <l>If juſt Diſdain will ſuffer, call to mind</l>
+               <l>How in that penſive Time</l>
+               <l>Our Swains at their own handy-work repin'd,</l>
+               <l>And curſ'd their Tillage to new Lords aſſign'd;</l>
+               <l>Wiſh'd Blight and Mildews on their gen'rous Soil,</l>
+               <l>E're Lubber-Prieſts ſhou'd batten on the Spoil,</l>
+               <l>And Conſecrated Sloth devour their Toil.</l>
+               <l>By Husbandmen of yore forwarn'd the Harm;</l>
+               <l>No Caterpillars like a ſacred Swarm.</l>
+               <l>The vile Remembrance we can ſcarce ſupport,</l>
+               <l>How Vermin to our Palace did reſort,</l>
+               <l>And Nations purg'd their Scum into our Court,</l>
+               <l>The Rogue was qualify'd for Magiſtrate,</l>
+               <l>Tribunals then were Shambles of the State.</l>
+               <l>We ſuffer'd much, and Fear ſuggeſted more,</l>
+               <l>Till Ruine ſhould o rewhelm our fenceleſs Shore,</l>
+               <l>We heard the near advancing Billows Roar.</l>
+               <l>With ev'ry Guſt th' impetuous Tide came on,</l>
+               <l>Our Sluces open'd, and our Moundings gone,</l>
+               <l>When Tyranny with Sword high-brandiſh'd ſtood,</l>
+               <l>And Zeal, the worſt of Fiends, for ſeeming good,</l>
+               <pb n="5" facs="tcp:45063:6"/>
+               <l>The Monſter now confeſt with darted Claws,</l>
+               <l>And lick'd for Thirſt of Blood her frothy Jaws.</l>
+               <l>'Twas then <hi>Fame</hi>'s Voice did firſt our Coaſts ſurprize,</l>
+               <l>(A Voice like that ſhall bid the Dead to riſe)</l>
+               <l>That brave <hi>NASSAW</hi> approach'd to our Relief:</l>
+               <l>With Joy as Speechleſs as our former Grief</l>
+               <l>The Tidings we receiv'd, with early Eyes,</l>
+               <l>Preventing Day, we watch'd the Eaſtern Skies:</l>
+               <l>At laſt the Hero came, the long expected Gueſt,</l>
+               <l>As from a preſent Deity</l>
+               <l>The conſcious Monſters fly,</l>
+               <l>The Specters vaniſh'd, and the Land had Reſt.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>Unparallel'd in Story was the Change!</l>
+               <l>But nothing, where ſuch Vertue works, is ſtrange.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Then tell me, good <hi>Palaemon,</hi> whence this Cloud</l>
+               <l>Of Diſcontent, that do's our Morning ſhroud?</l>
+               <l>Can we ſo ſoon grow ſick of Happineſs,</l>
+               <l>So ſoon ſuſpect the Bleſſings we poſſeſs?</l>
+               <l>The Reaſons of this ſtupid Change relate,</l>
+               <l>Our Fault or Lott, our Folly or our Fate.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>Too ſoon we ſlept, and let the watchful Foe,</l>
+               <l>Before our Wheat was ſprung, his Darnel ſow.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>A diſappointed Foe you cannot blame,</l>
+               <l>At once by Int'reſt urg'd Revenge and Shame.</l>
+               <l>Think not a loſing Gameſter will be fair,</l>
+               <l>Who at his Beſt ne're play'd upon the Square.</l>
+            </sp>
+            <sp>
+               <pb n="6" facs="tcp:45063:7"/>
+               <speaker>PALAEMON.</speaker>
+               <l>
+                  <hi>Rome</hi>'s Frauds are now of ſuch an ancient Date,</l>
+               <l>The Harlot pleads her Priviledg to cheat.</l>
+               <l>Her holy Panders too you muſt forgive,</l>
+               <l>Who keep her Trading up, by which they live.</l>
+               <l>The Ghoſtly Pimps muſt ſtarve, or elſe combine</l>
+               <l>For her Support, the State to undermine.</l>
+               <l>
+                  <hi>Neceſſity</hi> ſways Here with ſome Pretence,</l>
+               <l>To <hi>Right Divine</hi> — at leaſt to common Senſe:</l>
+               <l>But who that unintelligible Wight</l>
+               <l>Can e're decipher, call'd a <hi>JACOBITE?</hi>
+               </l>
+               <l>(The Appellation he with Pride do's claim,</l>
+               <l>Nor will I grutch him the Auſpicious Name)</l>
+               <l>How ſhall we him define, who ne're could find</l>
+               <l>The Sentiments of his own Wayward Mind?</l>
+               <l>Foe to his Own, and to his Country's Eaſe,</l>
+               <l>And whom no Colour of Affairs can pleaſe:</l>
+               <l>For, truſt him with the Pow'r he do's aſpire,</l>
+               <l>With mad Career he drives into the Mire;</l>
+               <l>While grov'ling there, in woful Plight he lies,</l>
+               <l>He wearies Earth and Heav'n with reſtleſs Cries.</l>
+               <l>Aſſiſt the Wretch, and place him on firm Land,</l>
+               <l>He'll curſe the Friendly unexpected Hand.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>How diſmal were your State, ye murm'ring Race,</l>
+               <l>Shou'd your own fatal Wiſhes once take place?</l>
+               <l>But Heav'n, and God-like Kings, their Grace extend,</l>
+               <l>And ev'n to ſave th'Ingrateful, condeſcend.</l>
+            </sp>
+            <sp>
+               <pb n="7" facs="tcp:45063:7"/>
+               <speaker>PALAEMON.</speaker>
+               <l>Ah! what can Heav'n, and God-like Kings deviſe,</l>
+               <l>For their Relief? what Charm unſeal their Eyes,</l>
+               <l>Whom common Danger warns not to be Wiſe?</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Yet, good <hi>Palaemon,</hi> leſt the Plague encreaſe,</l>
+               <l>Mark out and brand the Troublers of our Peace.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>The Faction a meer Hydra you will find,</l>
+               <l>Whoſe different Aſpects to one Trunk are join'd,</l>
+               <l>Of Humane Form, but all of Serpent-kind.</l>
+               <l>Some hiſs and murmur, whom no Schemes of Law</l>
+               <l>Can pleaſe, but what their own wild Notions draw;</l>
+               <l>Nor would ev'n theſe content the Changlings long.</l>
+               <l>Others by Sympathy affect the wrong,</l>
+               <l>To Errour by Impulſe of Nature led,</l>
+               <l>Like Dungeon Toads on poyſ'nous Vapours fed,</l>
+               <l>'Mongſt Caitiffs, who had ſold for Stated Sums</l>
+               <l>Their Country, ſummon'd now to haſty Dooms.</l>
+               <l>They who had longeſt Truſted, moſt repin'd,</l>
+               <l>Diſcarded Knaves, to want and ſhame conſign'd,</l>
+               <l>The Drudg'ry paſt, their dear Arrears behind.</l>
+               <l>For Envy ſome revile, who wanted Heart</l>
+               <l>In the bold Scene to bear a timely Part.</l>
+               <l>Some who nor Prince nor Providence dare truſt,</l>
+               <l>Cautious how they too ſoon the Foe diſguſt,</l>
+               <l>Decry the Cauſe, of preſent Grace aſſur'd,</l>
+               <l>And wiſely for another Turn ſecur'd.</l>
+               <pb n="8" facs="tcp:45063:8"/>
+               <l>Some ſleepy Sotts, born ſwiftly down the Stream,</l>
+               <l>Wake, Stare, and think the wondrous Change a Dream.</l>
+               <l>Some who had lent their helping-hand, recoil;</l>
+               <l>For want of Buſineſs, their own work they ſpoil;</l>
+               <l>Fall off, as they came on, they knew not why;</l>
+               <l>Start any Game, and they'll purſue the Cry.</l>
+               <l>Miſtaken Politicks did ſome incenſe;</l>
+               <l>And ſome found fault for honeſt Want of Senſe;</l>
+               <l>The frailer Souls (for when were Women wiſe?)</l>
+               <l>Give ear to murm'ring Fiends ſuggeſted Lyes,</l>
+               <l>Fair gloz'd to cheat 'em of their Paradiſe.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>But Man methinks his Reaſon ſhou'd recal,</l>
+               <l>Not let frail Woman work his ſecond Fall.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <lg>
+                  <l>The Sex to cenſure were unjuſt and rude;</l>
+                  <l>The Foe has few to boaſt beſide the <hi>Lewd.</hi>
+                  </l>
+                  <l>To ſpiritual Whore-mongers let Whores be kind,</l>
+                  <l>Their carnal Harlotry were too confin'd,</l>
+                  <l>Without the Fornication of the Mind.</l>
+               </lg>
+               <lg>
+                  <l>Rank next the giddy Thoughtleſs Lawleſs Rout,</l>
+                  <l>The Atheiſt, and miſtakenly Devout;</l>
+                  <l>Bigots whoſe croſs-grain'd Piety looſe-rid,</l>
+                  <l>Starts, Flounces, Kicks —</l>
+                  <l>Tame Aſſes when by Tyrants th'are beſtrid.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Ah! when did Miſchief in the State begin,</l>
+               <l>Where Conſcience did not for her ſhare come in?</l>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:45063:8"/>
+               <speaker>PALAEMON.</speaker>
+               <l>Mark the whole Chain of Publick Woes, you'll find</l>
+               <l>The laſt Link ſtill to the Prieſt's Girdle join'd.</l>
+               <l>
+                  <hi>Pan</hi> proſper me, as I the Function hold</l>
+               <l>Moſt Sacred, and the Watchmen of the Fold;</l>
+               <l>But hate the Shepherds who their Labour ſpare,</l>
+               <l>To Hirelings leave their Flocks, their only Care</l>
+               <l>To call at Sheering-time for an ungodly Share:</l>
+               <l>Fleece-warm, and with an <hi>Amaryllis</hi> ſped,</l>
+               <l>They Pipe and Feaſt, and jocund Meaſures tread,</l>
+               <l>While their lean Sheep look up, and are not fed.</l>
+               <l>Nor care which way, make but the ſtipend large,</l>
+               <l>Through Door or Breach they climb into the Charge.</l>
+               <l>Profit with them is Grace's loudeſt Call;</l>
+               <l>Preferment's Sacred, let the Bleſſing fall</l>
+               <l>From a Court-Miſtreſs, or a Prieſt of <hi>Baal.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>From hence, from this corrupted Fountain's Head,</l>
+               <l>The poyſon'd Stream of <hi>Paſſive Nonſenſe</hi> ſpread:</l>
+               <l>Divines of Fortune, to deſerve their Pay</l>
+               <l>From Court, the People to the Prince betray;</l>
+               <l>With Fire and Lough-Bells for his Service ſet,</l>
+               <l>To awe the Partridge, while he ſpreads his Net;</l>
+               <l>To honeſt Self-Defence Damnation give,</l>
+               <l>And ring their conſtant Peal, PREROGATIVE.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>While elder Chanticleers, and more inſpir'd,</l>
+               <l>To ſound the Spiritual Watch alone aſpir'd,</l>
+               <pb n="10" facs="tcp:45063:9"/>
+               <l>Our young and dapper Brood of forward Chicks</l>
+               <l>No ſooner Perch, but ſcream out POLITICKS.</l>
+               <l>Grown Pariſh-Cocks, each in his Barn can crow</l>
+               <l>Againſt tame Fowl, but Cravens to the Foe;</l>
+               <l>Plump, richly-plum'd, and of the Treading Strain,</l>
+               <l>They ſtrut amongſt their Hens, and ſpread their pompous Train.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Ah! had the <hi>Paſſive Syſteme</hi> no ſupport,</l>
+               <l>Beſide the Cock'ril-Clergy of the Court?</l>
+               <l>The Church long ſince had lent the Cauſe her Hand,</l>
+               <l>But awful Names, and ſuch as bore Command,</l>
+               <l>Too far, too long indulg'd the ſickly Dream;</l>
+               <l>Peace ſprings; but while reſerv'd thoſe Leaders ſeem,</l>
+               <l>The Herd gaze on, and dare not taſte the Stream.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>Enough: If Great Examples may prevail,</l>
+               <l>Our brighteſt Stars have ſcap'd the <hi>Dragon's Tail;</hi>
+               </l>
+               <l>Have own'd Heav'ns Cauſe, and took their <hi>Michael</hi>'s Part,</l>
+               <l>Nor e'r from Free-born Truth's Defence did ſtart;</l>
+               <l>Whoſe ſenſe no <hi>Gorgons,</hi> no <hi>Chimaera's</hi> charm,</l>
+               <l>To hang dead Weights on their Reſtorer's Arm;</l>
+               <l>Who ne'r to ſlaviſh Principles gave way,</l>
+               <l>That would Religion, Church and State betray:</l>
+               <l>From Ancient Sanctions ſtill their Meaſures drew;</l>
+               <l>And, tho they ſoar'd not with the Modern Crew,</l>
+               <l>EUSEBIA ne'r cou'd boaſt of Sons more True.</l>
+               <l>In this bright Liſt let that Learn'd Champion come,</l>
+               <l>EUSEBIA's Glory, and the Scourge of <hi>Rome;</hi>
+               </l>
+               <pb n="11" facs="tcp:45063:9"/>
+               <l>Whoſe piercing Wit to all her Frauds gave light,</l>
+               <l>The deep-engender'd Births of Papal Night.</l>
+               <l>The Fiends, who long ſecure in Darkneſs lay,</l>
+               <l>Shrunk from his Beams, and yell'd at ſight of Day.</l>
+               <l>Of num'rous Champions can EUSEBIA boaſt;</l>
+               <l>But This the Leader of the Sacred Hoſt.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Yet equal Praiſe to that Learn'd Paſtor give,</l>
+               <l>Of Modern Skill, and Meekneſs Primitive;</l>
+               <l>But bold in Fight, with Arguments conciſe,</l>
+               <l>He lightens in the Eyes of <hi>Rome</hi> and Vice:</l>
+               <l>With Wonder Men, with Triumph Angels ſee</l>
+               <l>His blameleſs Life, from Pride and Paſſion free;</l>
+               <l>No Prieſt more frank the Ghoſtly Counſel gives;</l>
+               <l>No Lay-man with more lib'ral Hand relieves;</l>
+               <l>Unpractis'd in the worldly Shepherds Guile,</l>
+               <l>His Life's whole buſineſs is to Reconcile;</l>
+               <l>His very Aſpect breaths an Air of Grace</l>
+               <l>So mild, he carries Goſpel in his Face.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>How ſhall EUSEBIA then her ſelf excuſe,</l>
+               <l>Whoſe Builders cou'd this Corner-ſtone refuſe?</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Yet ev'n th'unjuſt Repulſe his Worth confeſs'd,</l>
+               <l>Rejected by the <hi>Many,</hi> not the <hi>Beſt.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>Ah! without Envy let the Truth be told,</l>
+               <l>Such as ne'r knew the Shepherds Staff to hold</l>
+               <l>Fear'd MODERATION wou'd ſet ope the Fold.</l>
+            </sp>
+            <sp>
+               <pb n="12" facs="tcp:45063:10"/>
+               <speaker>PHILANDER.</speaker>
+               <l>Oft have I found, while I my Sheep did guide</l>
+               <l>To Paſtures ſweet, the friendly Gate ſet wide,</l>
+               <l>They freely enter'd, and my Crook obey'd;</l>
+               <l>But ſtill of narrow Inlets were afraid;</l>
+               <l>Or if a Bridge too ſtreight they ſpy'd afore,</l>
+               <l>Wou'd rather take the Stream, than venture o'r.</l>
+               <l>But ſay, What prejudice had thence enſu'd,</l>
+               <l>Had they receiv'd the ſeparate Multitude?</l>
+               <l>Was ever Shepherd yet a Foe to Peace,</l>
+               <l>Or e'r repin'd to ſee his Flock increaſe?</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>The Fold ſet ope, had gain'd more <hi>Sheep,</hi> 'tis true,</l>
+               <l>But had withal receiv'd more <hi>Shepherds</hi> too,</l>
+               <l>Who with new Stewards diligence at firſt</l>
+               <l>(If not for Conſcience-ſake) their Flocks had nurs'd;</l>
+               <l>Our Loiterers from hence foreſaw their Doom,</l>
+               <l>When none but painful Paſtors cou'd have room.</l>
+               <l>This made 'em rave like Men on Ruin's brink,</l>
+               <l>And cry, The Deluge comes, ſtop ev'ry Chink,</l>
+               <l>Shut faſt the Door, or elſe the Ark will ſink.</l>
+               <l>To loſe one uſeleſs Peg did Shipwreck ſeem,</l>
+               <l>And ev'ry rotten Rafter was a Beam.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Let queſtion'd Beauties owe their Charms to Dreſs,</l>
+               <l>EUSEBIA's Frame does all that's Fair poſſeſs;</l>
+               <l>Too gawdy Tire but makes a Matron ſcorn'd,</l>
+               <l>Let mild EUSEBIA ſhine</l>
+               <l>A Firmament by her own Stars adorn'd.</l>
+            </sp>
+            <sp>
+               <pb n="13" facs="tcp:45063:10"/>
+               <speaker>PALAEMON.</speaker>
+               <l>Yet Meteors to the Firmament may riſe,</l>
+               <l>And Comets Peſtilent invade the Skies;</l>
+               <l>'Twas ſo of old.—</l>
+               <l>Their Influence in firſt Ages did appear.</l>
+               <l>Bright and untroubled ſhone the Church's Sphere,</l>
+               <l>Till Sons of Vengeance got th'Aſcendent there.</l>
+               <l>In petty Factions firſt her Stars engag'd,</l>
+               <l>Till War broke out, and Perſecution rag'd.</l>
+               <l>This Peſt, by <hi>Conſtantine</hi>'s warm Summer bred,</l>
+               <l>At once through all th'infected Clergy ſpread.</l>
+               <l>The bloody Paths had long in vain been trod,</l>
+               <l>Till Heathen Princes, tir'd, threw down the Rod</l>
+               <l>Ambitious Prieſts the Utenſil to burn</l>
+               <l>Thought pity, till themſelves had took their turn,</l>
+               <l>And perſecuting by more dextrous Rules,</l>
+               <l>Prov'd <hi>Maximine</hi> and <hi>Diocleſian</hi> Fools.</l>
+               <l>'Twas <hi>Rooting up God's Heritage</hi> before,</l>
+               <l>While Magiſtrates the Iron Scepter bore:</l>
+               <l>In Them the Exerciſe, tho more ſevere,</l>
+               <l>Was <hi>Diſcipline,</hi> and <hi>Eccleſiaſtick Care.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>For Church or State on Conſcience to impoſe,</l>
+               <l>Muſt wider make the Breach they think to cloſe:</l>
+               <l>And he that Fetters wou'd for Reaſon find,</l>
+               <l>May ſhackle the Sun-beams, and graſp the Wind,</l>
+               <l>Which no reſtraints of Human Laws will know,</l>
+               <l>But where and when they pleaſe will ſhine or blow.</l>
+               <l>But Truth ſhould bind; And your Opinion's true,</l>
+               <l>And erring Judgments ſhould ſubmit to you,</l>
+               <pb n="14" facs="tcp:45063:11"/>
+               <l>I grant.—</l>
+               <l>But firſt you muſt convince by Reaſon's Light,</l>
+               <l>That They <hi>miſtake,</hi> and You are in the <hi>right:</hi>
+               </l>
+               <l>Where You miſtake, and They the Truth may hit,</l>
+               <l>Will you to your own Rule of Force ſubmit?</l>
+               <l>You'll plead the Privilege They urg'd before,</l>
+               <l>Conviction crave, and They demand no more.</l>
+               <l>Conviction clear the Soul can only win;</l>
+               <l>With Club or Hammer try to force the Pin,</l>
+               <l>The Brains you may beat out, ne'r drive the Notion in,</l>
+               <l>Abſurd the Zeal that Goſpel's Pow'r promotes</l>
+               <l>'Gainſt Goſpel Laws, and Peace by cutting Throats;</l>
+               <l>That Faith to plant does Charity disband,</l>
+               <l>And break for <hi>doubtful Truths</hi> a <hi>clear Command.</hi>
+               </l>
+               <l>Since firſt this Peſt the Chriſtian World annoy'd,</l>
+               <l>Since Perſecuting Pow'r the Church enjoy'd,</l>
+               <l>
+                  <hi>Zeal</hi> marr'd <hi>Religion, Creeds</hi> the <hi>Faith</hi> deſtroy'd.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>Where <hi>Rome</hi> bears ſway, bid Laws Divine farewell,</l>
+               <l>And Human Rights t'aſſert, is to Rebel.</l>
+               <l>Speak, ſuffering Witneſs, I appeal to Thee,</l>
+               <l>Thou Firſt Apoſtle of our Liberty,</l>
+               <l>Condemn'd to Stripes. Thy Crime? Thou didſt preſume</l>
+               <l>To write 'gainſt <hi>Arbitrary Pow'r</hi> and <hi>Rome;</hi>
+               </l>
+               <l>Didſt <hi>Inferences</hi> of <hi>ſtrange Treaſon</hi> draw,</l>
+               <l>And ſay, <hi>'Twas Legal to defend the Law.</hi>
+               </l>
+               <l>Thy envious Foes no other Crimes could urge,</l>
+               <l>And to confute thy <hi>Pen,</hi> produc'd the <hi>Scourge.</hi>
+               </l>
+            </sp>
+            <sp>
+               <pb n="15" facs="tcp:45063:11"/>
+               <speaker>PHILANDER.</speaker>
+               <l>You mention'd <hi>Conſtantine,</hi> in whoſe mild Reign</l>
+               <l>The haraſs'd Church did firſt her Freedom gain,</l>
+               <l>When Prieſts ſecure to Biſhopricks aſpir'd,</l>
+               <l>Without Firſt-Fruits of Martyrdom requir'd:</l>
+               <l>Tell me, How then could Cruelty intrude?</l>
+               <l>How came the Perſecuting Plague renew'd?</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>Luſt, Riot, Avarice, Ambition, Strife,</l>
+               <l>Are Baſtard-off ſprings of too peaceful Life.</l>
+               <l>With nice Diſputes the wanton Prieſts began,</l>
+               <l>To Envy next, and wild Confuſion ran;</l>
+               <l>Wou'd Myſteries too curiouſly enquire,</l>
+               <l>That firſt rais'd Smoke, then ſet the Church on fire.</l>
+               <l>From brangling <hi>Arrius</hi> the firſt Fire-brand came.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>But <hi>Conſtantine</hi> took care to quench the Flame.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>The <hi>Nicene</hi> Fathers, ſummon'd to decide</l>
+               <l>The Strife, inſtead of Lenitives apply'd,</l>
+               <l>Too late convinc'd th'indulgent Emperour</l>
+               <l>How fatal 'twas to truſt a Prieſt with Pow'r.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>The pious Prince, to do th'Aſſembly Grace,</l>
+               <l>Refus'd (I've heard) Himſelf to take his place</l>
+               <l>'Till they were ſat.—'Twas favour ill apply'd,</l>
+               <l>If ſuch Behaviour taught the Doctors Pride.</l>
+            </sp>
+            <sp>
+               <pb n="16" facs="tcp:45063:12"/>
+               <speaker>PALAEMON.</speaker>
+               <l>Then having, as a Chriſtian Monarch ought;</l>
+               <l>Firſt burnt th'Invectives which the Fathers brought</l>
+               <l>Againſt each Other, and for Union preſs'd,</l>
+               <l>Thus to the Council he himſelf addreſs'd:</l>
+               <l>
+                  <hi>God made you Prieſts, and God alone can be</hi>
+               </l>
+               <l>
+                  <hi>Your Judge; Reſt therefore from my Cenſure free;</hi>
+               </l>
+               <l>
+                  <hi>No Man ſhou'd judge of Gods, and You are Gods to Me.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>When Princes yield, the Prelate muſt prevail.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>When e'r did Prieſt to take Advantage fail?</l>
+               <l>Forthwith Church-Cenſures flew as thick as Hail:</l>
+               <l>The <hi>Arrian Syſteme</hi> to juſt flames aſſign'd,</l>
+               <l>And <hi>Nicene Creed</hi> with Penalties enjoyn'd.</l>
+               <l>They fix'd not Here; but for each trifling Cauſe</l>
+               <l>The Mettal try'd of their new <hi>Penal Laws.</hi>
+               </l>
+               <l>Think how each Victor went triumphant home,</l>
+               <l>With Titles ſwell'd too bulky for his <hi>Dome,</hi>
+               </l>
+               <l>From <hi>Council Orthodox</hi> and <hi>Catholick;</hi>
+               </l>
+               <l>Each Hare that croſs'd him was an <hi>Heretick.</hi>
+               </l>
+               <l>And if his Horſe but ſtumbl'd in his way,</l>
+               <l>Th'erroneous Beaſt incurr'd th'<hi>Anathema.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Yet, ſince they ſquar'd by Rules of Sacred Writ</l>
+               <l>Their <hi>Symbol,</hi> you to their Decrees ſubmit?</l>
+            </sp>
+            <sp>
+               <pb n="17" facs="tcp:45063:12"/>
+               <speaker>PALAEMON.</speaker>
+               <l>I own what e're the Sacred Books contain,</l>
+               <l>Can Myſteries believe, though not explain;</l>
+               <l>Have none in Footſteps of firſt Martyrs trod,</l>
+               <l>And dy'd for Truth, who ne'r conceiv'd the Mode?</l>
+               <l>Brand ſuch as won't to Truths reveal'd agree,</l>
+               <l>But Penalties on ſuch as cannot ſee</l>
+               <l>What others can, is Breach of Charity.</l>
+               <l>Had Charity in Synods interpos'd,</l>
+               <l>The Seamleſs Garments Breach had ſoon been clos'd,</l>
+               <l>Which to repair the wrangling Doctors try'd,</l>
+               <l>(While Metaphyſicks ſacred Truths decide)</l>
+               <l>And by ill-botching made the Rent more wide;</l>
+               <l>But they had now learnt Sciences, and muſt</l>
+               <l>To their own Fame, as well as Truth be Juſt.</l>
+               <l>Would Myſteries, not like Mechanicks know,</l>
+               <l>But both the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſhow;</l>
+               <l>Were ſubtle School-men grown, and to agree,</l>
+               <l>Had Scandal been to their <hi>Philoſophy.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>But tell me, did theſe Clouds the Faith invade,</l>
+               <l>When firſt whole Nations were its Converts made?</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>The Faith ſhone clear till School-Terms, rais'd like Miſts,</l>
+               <l>Favour'd the Juggles of Impoſing Prieſts;</l>
+               <l>And Councils having Scripture Bounds o're-paſt,</l>
+               <l>Advanc'd to forging of New Creeds at laſt;</l>
+               <pb n="18" facs="tcp:45063:13"/>
+               <l>Which by the <hi>Hocus</hi> of <hi>Infallible,</hi>
+               </l>
+               <l>Went down ſo glib the Difference few could tell,</l>
+               <l>The Prieſt's Turn better ſerv'd, and pleas'd the Crowd as well;</l>
+               <l>They heard how their Redeemer at his Death</l>
+               <l>Did Sacred Legacies to all bequeath,</l>
+               <l>Which if they'd now inſpect, and had the Skill,</l>
+               <l>The Church into her Hands had got the Will;</l>
+               <l>For now the Laity were left i'th' Lurch,</l>
+               <l>Th' Encroaching Clergy were become the Church:</l>
+               <l>Nor ſtood the Magiſtrate on higher Ground,</l>
+               <l>In vain to Scripture their Appeals they found,</l>
+               <l>While 'twas the Churches Priv'ledge to expound.</l>
+               <l>Thus (through Indulgence, Fond of ſuch as Reign'd,</l>
+               <l>And through the People's Sloth) th' Aſcendent gain'd,</l>
+               <l>
+                  <hi>Romes</hi> Prelate topp'd upon her Temp'ral Pow'r,</l>
+               <l>And from her Prieſt became her Emperor.</l>
+               <l>With artful Baits the Fiſher long had ſought,</l>
+               <l>And Empire was the Fiſh at laſt he caught.</l>
+               <l>But Time, and Breath, and Patience too wou'd fail</l>
+               <l>To count the Steps of this prodigious Scale;</l>
+               <l>Suffice it, that at firſt th' Impoſtor gain'd</l>
+               <l>By Frauds his height, and by worſe Frauds maintain'd;</l>
+               <l>Sloth, Ignorance, blind Zeal, and blinder Fear,</l>
+               <l>Combin'd to level Thrones, and mount the Chair.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>'Twas then th' aſpiring Clergy Crown'd their Hope,</l>
+               <l>And form'd their Church-<hi>Leviathan,</hi> a Pope,</l>
+               <l>In whom they ſtill poſſeſs the Pow'r they give,</l>
+               <l>Earth's Tyrant, but their Repreſentative.</l>
+            </sp>
+            <sp>
+               <pb n="19" facs="tcp:45063:13"/>
+               <speaker>PALAEMON.</speaker>
+               <l>'Tis Done, the Ambitious Prieſt has got the Day,</l>
+               <l>The Prelate Rules, and Princes muſt Obey;</l>
+               <l>The Spiritual Lord exalted to the Skies,</l>
+               <l>Looks down, and all the Subject World defies,</l>
+               <l>Does ſafe his Empyraean Height poſſeſs,</l>
+               <l>His only Care to manage his Succeſs;</l>
+               <l>How to diſpenſe his Beams, to whom be kind,</l>
+               <l>And who ſhall his Malignant Aſpects find:</l>
+               <l>To whom large Territories he ſhall give,</l>
+               <l>To whom ſell Crowns, and whom of Crowns deprive,</l>
+               <l>To Judge who beſt to Merit does pretend,</l>
+               <l>And Merit is to be the Church's Friend.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>For Crimes ſo black, that Humane Nature ſhockt,</l>
+               <l>Unpeopled Earth, and Hell's Plantations ſtockt;</l>
+               <l>Th' Indulgence-Shop was ope'd with Pardons ſtor'd,</l>
+               <l>And to a Friend good pen'orths cou'd afford,</l>
+               <l>At th' old fixt Rates, the reſt their Ware muſt take:</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>But if y'are impious for the Churches ſake,</l>
+               <l>Ev'n with their Office-Fees they can diſpenſe,</l>
+               <l>They con you Thanks, and Conſecrate th' Offence:</l>
+               <l>A Cut-Throat Prieſt of Murder, cou'd make ſport,</l>
+               <l>From Laws protected by the Spiritual Court;</l>
+               <l>Kings let him Kill, and blackeſt Treaſons Act;</l>
+               <l>His Judges ſtill were Parties in the Fact.</l>
+            </sp>
+            <sp>
+               <pb n="20" facs="tcp:45063:14"/>
+               <speaker>PHILANDER.</speaker>
+               <l>What if a Lay-Man did the Prieſt Offend?</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>An injur'd Prieſt, or who could Wrong pretend,</l>
+               <l>Cry'd, Burn the Heretick—the ready Stake</l>
+               <l>Forthwith did Pious Reparation make.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>To hurt his Perſon made the Sentence Juſt,</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at the Prieſt ſaid, 'twas Death but to miſtruſt.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>Fear more than Wit this Tyranny enjoin'd,</l>
+               <l>Leſt the dull Crowd at laſt the Cheat ſhould find,</l>
+               <l>And to requite their groſs pernicious Pranks,</l>
+               <l>Pull down their Stage, and ſtone the Mountebanks;</l>
+               <l>Dull Souls, with Eaſe are of their Rights bereav'd,</l>
+               <l>But none Revenge, like <hi>Fools,</hi> when undeceiv'd;</l>
+               <l>And ſtrongeſt Stomachs, with large Draughts oppreſt,</l>
+               <l>The laſt Diſguſts, and throws up all the reſt:</l>
+               <l>Heap Crime on Crime, to keep the Frauds from Air,</l>
+               <l>The laſt of Courſe muſt lic expos'd and bare;</l>
+               <l>And too much weight o're-throw the Guilty Chair;</l>
+               <l>Now Monſter, Triple-Crown'd, expect thy Doom,</l>
+               <l>
+                  <hi>Luther</hi> the <hi>Saxon</hi> Thunder-bolt is come,</l>
+               <l>T'Unhinge at once the Babel-Toils of <hi>Rome.</hi>
+               </l>
+               <l>For though to Heav'n the threatning Front aſpire,</l>
+               <l>He'll ſhew the Wretched Baſis laid in Mire</l>
+               <l>In Papal Nets, ſhall Breaches make ſo wide,</l>
+               <l>That Kings and Kingdoms through the Rents ſhall ſlide:</l>
+               <pb n="21" facs="tcp:45063:14"/>
+               <l>Then ſhall <hi>Euſebia,</hi> cloath'd in Truth Divine,</l>
+               <l>Her <hi>Roman</hi> Ruſt fil'd off, the Stars out-ſhine</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Far muſt her firſt Reformers Skill extend,</l>
+               <l>To leave ſucceeding Ages nought to mend.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>I not pretend to Judge, ſince all confeſs</l>
+               <l>Her Beauty, who except againſt her Dreſs,</l>
+               <l>Which if ſhe may with Decency neglect</l>
+               <l>Or does too much the <hi>Roman</hi> Mode affect;</l>
+               <l>I leave her Guides that Queſtion to decide,</l>
+               <l>And dare not charge the Sacred Dame with Pride;</l>
+               <l>Wou'd ſee Contention, but not Order ceaſe;</l>
+               <l>Order is needful, nor leſs needful Peace:</l>
+               <l>Hope, though unthinking Formaliſts repine,</l>
+               <l>Th' Indulgent Mother will at laſt encline</l>
+               <l>To gratifie her Pious <hi>Conſtantine,</hi>
+               </l>
+               <l>The Hero from Domeſtick Cares unbind</l>
+               <l>To proſecute the Buſineſs of Mankind;</l>
+               <l>Wave Jealouſies, and yield the Truſt that's due</l>
+               <l>To her kind Patron, and Reſtorer too;</l>
+               <l>Her Sacred Birth-right may ſhe ſo retain,</l>
+               <l>Diſſenting Flocks ſo may her Sheep-Folds gain,</l>
+               <l>And leave the baffl'd Wolf to grin and howl in vain.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>The Mother ſtill in vain will condeſcend,</l>
+               <l>In vain to <hi>wilful</hi> Sons her Arms extend,</l>
+               <pb n="22" facs="tcp:45063:15"/>
+               <l>As ſhe enclines let them Advances make,</l>
+               <l>Beware how Pride for Conſcience they miſtake;</l>
+               <l>How Uncommiſſion'd Shepherds lead aſtray,</l>
+               <l>Securely on the wilder'd Sheep to prey:</l>
+               <l>Divided Flocks, but make the Wolf more bold,</l>
+               <l>The greateſt Safety's in the common Fold,</l>
+               <l>The Bars remov'd, Compliance mild will ſhow</l>
+               <l>Your Paſtors Care, if for Themſelves or <hi>You.</hi>
+               </l>
+               <l>Our ableſt Guides for Comprehenſion ſtrive,</l>
+               <l>That Sacred Union may once more revive,</l>
+               <l>None more than He who late the Mitre took,</l>
+               <l>Deſerv'dly, as before, He held the Crook,</l>
+               <l>The Skilfulſt Text-man at the Shepherd's Book:</l>
+               <l>True to his Function and the Publick-Weal,</l>
+               <l>For which his ſteady Votes have prov'd his Zeal</l>
+               <l>In each Debate (by Party or Deſign,</l>
+               <l>Unbiaſs'd) does his Country's Int'reſt join,</l>
+               <l>And ſtamps on State-Decrees a Seal Divine,</l>
+               <l>What Shepherd from his Judgment would divide.</l>
+               <l>What Flock refuſe to wait on ſuch a Guide,</l>
+               <l>Whoſe Truth and Courage has of old been try'd?</l>
+               <l>Whom not the Raging Peſtilence could make</l>
+               <l>To ſlake Attendance, or his Charge forſake;</l>
+               <l>His Sheep to Comfort did their Danger ſhare</l>
+               <l>When Hirelings fled, and for themſelves took Care.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>From hence let <hi>Britain</hi> her new Freedom date,</l>
+               <l>The Church Conſenting to Support the State,</l>
+               <l>Since ſhe at laſt has found a King to Truſt,</l>
+               <l>And Worthy <hi>Senate,</hi> who to both are Juſt.</l>
+            </sp>
+            <sp>
+               <pb n="23" facs="tcp:45063:15"/>
+               <speaker>PHILANDER.</speaker>
+               <l>Hail, Generous Patriots, you that poize the Realm!</l>
+               <l>And leſt encroaching Waves the State o're-whelm,</l>
+               <l>Bring kind Supplies while <hi>Caeſar</hi> Sits at Helm.</l>
+               <l>In vain th' Oppreſs'd would call for his Alarms,</l>
+               <l>And Conqueſt beckon forth his Pious Arms,</l>
+               <l>Unleſs with <hi>Europes</hi> Freedom you comply'd;</l>
+               <l>
+                  <hi>Caeſar</hi> and You muſt <hi>Europe</hi>'s Fate decide,</l>
+               <l>Invading Pow'rs within juſt limits draw,</l>
+               <l>Teach Tyrants Juſtice, and Oppreſſors Law.</l>
+               <l>For though the <hi>Gallick</hi> Pride has ſwell'd ſo high,</l>
+               <l>United States and Empire to defie,</l>
+               <l>Stol'n Conqueſt boaſt, and Neighbouring Cities hold,</l>
+               <l>The wretched Purchaſe of extorted Gold;</l>
+               <l>From you, the Tyrant his Juſt Doom muſt wait,</l>
+               <l>For <hi>Nero</hi>'s Guilt muſt look for <hi>Nero</hi>'s Fate:</l>
+               <l>Ev'n now the State-Magician in his Cell,</l>
+               <l>Sits cloſe contriving ſome new impious Spell,</l>
+               <l>Which He ſends forth his Daemons to perform,</l>
+               <l>Well-skill'd to raiſe, but dares not meet the Storm:</l>
+               <l>'Tis You the Sword muſt furniſh, You muſt Arm</l>
+               <l>Our Pious Hero to diſſolve the Charm.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>Our Swains o're-joy'd their Senates Conduct ſee,</l>
+               <l>And carve their Sacred Names on ev'ry Tree,</l>
+               <l>To their diſpoſal yield their Grain and Fleece,</l>
+               <l>A ready Off'ring to their Country's Peace.</l>
+            </sp>
+            <sp>
+               <pb n="24" facs="tcp:45063:16"/>
+               <speaker>PHILANDER.</speaker>
+               <l>Oh! like our Patriots may our Swains agree!</l>
+               <l>From home-bred Strife, as foreign Dangers free,</l>
+               <l>So ſhall our Vales reſume their former Lays,</l>
+               <l>And Shepherds Skill'd in Song the Conſort raiſe,</l>
+               <l>To celebrate once more our Great Reſtorer's praiſe,</l>
+               <l>Employ their Leiſure purchas'd by his Toil,</l>
+               <l>In Raptures on <hi>Juverne</hi>'s reſcu'd Soil.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>Repeat, kind Youth, for I o're-heard your Strain</l>
+               <l>Laſt Night, by Moon-ſhine, from the dusky Plain,</l>
+               <l>That joins the Copſe, my Farms extreameſt Bounds,</l>
+               <l>Repeat, for they were more than vulgar ſounds;</l>
+               <l>Your Song purſu'd the Hero to the Coaſt</l>
+               <l>Of moiſt <hi>Juverne,</hi> where the adverſe Hoſt</l>
+               <l>Confus'd, the Mountain Paſſes did reſign,</l>
+               <l>And ſhew'd their Rear to the diſdaining <hi>Boyne,</hi>
+               </l>
+               <l>On whoſe ſteep banks our <hi>Britiſh</hi> Troops you left;</l>
+               <l>Of what enſu'd the liſtning Dales bereft;</l>
+               <l>Nor had retrencht your well-come Notes ſo ſoon,</l>
+               <l>If ſhrill <hi>Lyciſca</hi> had not bay'd the Moon.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>To happy Swains, that task I muſt reſign,</l>
+               <l>Who ſing beneath the Shade of their own Vine,</l>
+               <l>From dewy Morn, and ſultry Noon can creep</l>
+               <l>To their cool Sheds, and chooſe to Pipe or Sleep,</l>
+               <l>With vacant Songs call up the Evining Star,</l>
+               <l>
+                  <hi>Their</hi> Strains may rouze the noble Din of VVar,</l>
+               <pb n="25" facs="tcp:45063:16"/>
+               <l>Make Squadrons move, give foaming Steeds the Rein,</l>
+               <l>And trace a Hero through the duſty Plain,</l>
+               <l>Lure hov'ring Conqueſt down where they encline:</l>
+               <l>Through all you ſee the gen'rous <hi>Freedom</hi> ſhine,</l>
+               <l>And what falſe ſtrokes their Pencil ſtrikes in Heat,</l>
+               <l>Their happy <hi>Leiſure</hi> makes correct and great.</l>
+               <l>VVhat can <hi>Philander</hi> do, the wretched Heir</l>
+               <l>Of Thought-confounding Grief, and Slave of Care,</l>
+               <l>To ſervile Hours of tedious Day confin'd,</l>
+               <l>Expos'd all Night to welter through the Wind,</l>
+               <l>To tend in Sun-burnt Lawn, or thirſty Dale</l>
+               <l>His Maſter's Flock, and muſt make good the Tale;</l>
+               <l>How ſhall the ſtrict <hi>Damaetas</hi> be repay'd?</l>
+               <l>Suppoſe a Milcher ſtoln, or Firſtling ſtray'd?</l>
+               <l>With Notes refin'd can I repair the Wrong,</l>
+               <l>Or make him Reſtitution with a Song?</l>
+               <l>'Twas then great <hi>Maro</hi> found the Art to Charm,</l>
+               <l>VVhen He regain'd his Freedom and his Farm,</l>
+               <l>VVith Meadows, and an Oaten Pipe began,</l>
+               <l>Till warm'd with ripening Beams he ſung the <hi>MAN.</hi>
+               </l>
+               <l>Thy poor <hi>Philander</hi> to the Muſes Seat</l>
+               <l>By ſtealth has crept and felt th' Inſpiring Heat;</l>
+               <l>Been Midnight-Preſent at the Sacred Quire,</l>
+               <l>Has ſeen the Lawrell'd God, and heard his Lyre.</l>
+               <l>In ſmooth <hi>Pirene</hi> dipt his Fancy's VVing,</l>
+               <l>And taſted of the learn'd <hi>Caſtalian</hi> Spring.</l>
+               <l>VVhat ſteads it that he knows his Flow'rs to cull,</l>
+               <l>If rufling Care before his Garland's full</l>
+               <l>Conſound the fancy'd Order in a Trice,</l>
+               <l>Moil his clear Spring, and blaſt his Paradiſe.</l>
+            </sp>
+            <sp>
+               <pb n="26" facs="tcp:45063:17"/>
+               <speaker>PALAEMON.</speaker>
+               <l>Yet has our <hi>Britains Pollio</hi> heard thy Layes.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>Our <hi>Pollio</hi>'s Skill might <hi>Phaebus</hi>'s Envy raiſe,</l>
+               <l>For though the Court be <hi>Pollio</hi>'s proper Sphear,</l>
+               <l>Although he ſhines the brighteſt Planet there,</l>
+               <l>He thinks no ſcorn ſometimes to cheer the Plain</l>
+               <l>Oft condeſcends to hear the rural Strain;</l>
+               <l>Yet <hi>Pollio</hi>'s ſmiles ſhou'd make no Shepherd vain:</l>
+               <l>My uncouth Muſe let gibing Goat-Herds laugh</l>
+               <l>To Death, and <hi>Codrus</hi> write her Epitaph,</l>
+               <l>If <hi>Pollio</hi>'s Goodneſs ſhe ſo far abuſe,</l>
+               <l>Or Ween He <hi>likes</hi> becauſe he does <hi>Excuſe.</hi>
+               </l>
+               <l>On VVit's ſteep Heights he ſits the Ruling God,</l>
+               <l>Thoſe Heights which by Himſelf alone are trod,</l>
+               <l>Yet thence vouchſafe's his Gentle Beams to throw,</l>
+               <l>And pitty's all the panting Crowd below.</l>
+            </sp>
+            <sp>
+               <speaker>PALAEMON.</speaker>
+               <l>Yet <hi>William</hi>'s Praiſe no Shepherd can refuſe,</l>
+               <l>And Fortune may aſſiſt the daring Muſe,</l>
+               <l>Deep ſenſe of Duty, and immenſe Deſire</l>
+               <l>Can make the Pipe keep Conſort with the Lyre,</l>
+               <l>The Vanquiſh'd <hi>Boyne</hi> and <hi>Shannon</hi> will inſpire.</l>
+            </sp>
+            <sp>
+               <speaker>PHILANDER.</speaker>
+               <l>VVhen next we meet expect the <hi>Silvan</hi> Rhime,</l>
+               <l>Night haſtens, and 'tis now my Folding time;</l>
+               <l>The winding Song will ask your Leiſure's leave,</l>
+               <l>Employ your Patience, though your Hopes deceive.</l>
+               <pb n="27" facs="tcp:45063:17"/>
+               <l>The Daring Muſe unbeaten Paths ſhall tread,</l>
+               <l>In Viſionary Dreams of Rapture led,</l>
+               <l>Deſcend into the Regions of the Dead,</l>
+               <l>
+                  <hi>Elyſian</hi> Bow'rs, where <hi>Waller</hi>'s well-tun'd Lyre,</l>
+               <l>The Art of Numbers ſhall inſtruct the Quire,</l>
+               <l>VVhere <hi>Milton</hi> on Eternal Roſes lies,</l>
+               <l>Deep wrapt in Dreams of his own Paradiſe:</l>
+               <l>Th' advent'rous Muſe, with this kind Viſion charm'd,</l>
+               <l>And dear Concern for her lov'd Country warm'd</l>
+               <l>Of Secrets that to <hi>Britain</hi>'s Peace belong,</l>
+               <l>Shall queſtion Fate, conſult the Sacred Throng,</l>
+               <l>And through the dang'rous Courſe—</l>
+               <l>The Learn'd <hi>Couleian</hi> Shade direct her Song,</l>
+               <l>The Victor Crown, and to reward their Pain,</l>
+               <l>Embalm and Conſecrate the noble Slain,</l>
+               <l>If that low Pitch to which my Voice can riſe,</l>
+               <l>May reach ſuch Theams, and rural Notes ſuffice</l>
+               <l>To pleaſe the Plain, is all my Hopes perſue:</l>
+               <l>The Palace has already had its due.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
